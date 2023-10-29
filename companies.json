@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Hacktiv8",
+    "companyLogo": "https://coursereport-s3-production.global.ssl.fastly.net/uploads/school/logo/322/original/Logo_Hacktiv8.jpg",
+    "location": "Jakarta, Indonesia",
+    "email": "recruitment@hacktiv8.com",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit."
+  },
+  {
+    "name": "Tokopedia",
+    "companyLogo": "https://seeklogo.com/images/T/tokopedia-logo-40654CCDD6-seeklogo.com.png",
+    "location": "Jakarta, Indonesia",
+    "email": "recruitment@tokopedia.com",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit."
+  },
+  {
+    "name": "Bank Central Asia",
+    "companyLogo": "https://www.bca.co.id/-/media/Feature/Card/List-Card/Tentang-BCA/Brand-Assets/Logo-BCA/Logo-BCA_Biru.png",
+    "location": "Surabaya",
+    "email": "recruitment@bca.com",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit."
+  },
+  {
+    "name": "PT. Pupuk Kujang",
+    "companyLogo": "https://www.kikc.co.id/~img/1-bf791-2919_132-twebp80.webp",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    "location": "Cikampek, Jawa Barat",
+    "email": "recruitment@pukjang.co.id"
+  },
+  {
+    "name": "CV Mega Steel",
+    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo-uqOwRbJRwxapPsFRRch0fSXQ7jjNvizjsIT3OgVwUHIUydk3sErolqgdflJiAdwQ58&usqp=CAU",
+    "description": "this is a description",
+    "location": "Purwakarta, Jawa Barat",
+    "email": "megasteel@mail.com"
+  }
+]

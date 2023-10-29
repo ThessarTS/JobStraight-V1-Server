@@ -1,0 +1,148 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "user1",
+      "email": "user1@mail.com",
+      "password": "123123",
+      "role": "Super Admin",
+      "phoneNumber": "0812812812",
+      "address": "this is address"
+    },
+    {
+      "id": 2,
+      "username": "user2",
+      "email": "user2@mail.com",
+      "password": "123123",
+      "role": "Super Admin",
+      "phoneNumber": "0812812812",
+      "address": "this is address"
+    },
+    {
+      "email": "user3@mail.com",
+      "password": "123123",
+      "username": "user3",
+      "address": "this is an address ",
+      "phoneNumber": "4564573573576334",
+      "role": "Admin",
+      "id": 3
+    },
+    {
+      "email": "test1@mail.com",
+      "password": "123123",
+      "username": "test1",
+      "address": "aaaaaaaaaaaaaaaaaaaaaaa",
+      "phoneNumber": "24352523523",
+      "role": "Admin",
+      "id": 4
+    }
+  ],
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Junior Developer",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugiat eos voluptatem sint cupiditate mollitia eius? Repellendus facilis officiis est quidem quos beatae totam odio dicta, unde sequi fuga, at iure inventore ea laborum quas? Labore minima exercitationem sapiente, illum ducimus in quam rem ad aut dolorum quod magnam beatae veritatis eveniet qui quasi fugit eius illo molestiae mollitia iure laudantium. Excepturi esse voluptate sapiente nihil doloremque magnam veniam pariatur distinctio dolore accusamus? Minus ad itaque pariatur numquam veritatis sapiente dolore cum eaque quisquam unde officiis, in facilis molestiae, quam deserunt eveniet autem dolor non aut ullam fuga quidem assumenda minima!",
+      "companyId": 1,
+      "userId": 1,
+      "jobType": "Full Time",
+      "createdAt": "10/01/2023",
+      "updatedAt": "10/01/2023"
+    },
+    {
+      "id": 2,
+      "title": "Senior Developer",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugiat eos voluptatem sint cupiditate mollitia eius? Repellendus facilis officiis est quidem quos beatae totam odio dicta, unde sequi fuga, at iure inventore ea laborum quas? Labore minima exercitationem sapiente, illum ducimus in quam rem ad aut dolorum quod magnam beatae veritatis eveniet qui quasi fugit eius illo molestiae mollitia iure laudantium. Excepturi esse voluptate sapiente nihil doloremque magnam veniam pariatur distinctio dolore accusamus? Minus ad itaque pariatur numquam veritatis sapiente dolore cum eaque quisquam unde officiis, in facilis molestiae, quam deserunt eveniet autem dolor non aut ullam fuga quidem assumenda minima!",
+      "companyId": 2,
+      "userId": 1,
+      "jobType": "Part Time",
+      "createdAt": "10/01/2023",
+      "updatedAt": "10/01/2023"
+    },
+    {
+      "title": "Chief Accounting",
+      "companyId": "3",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda asperiores autem, nulla temporibus et id nostrum. Dolore asperiores nemo quisquam numquam labore. Esse, magnam dolores? Nulla animi, dignissimos autem exercitationem obcaecati reprehenderit sequi mollitia provident perspiciatis, harum hic fuga placeat.",
+      "jobType": "Full Time",
+      "createdAt": "10/3/2023",
+      "updatedAt": "10/3/2023",
+      "userId": 1,
+      "id": 3
+    },
+    {
+      "title": "Sales Manager",
+      "companyId": "1",
+      "description": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "jobType": "Full Time",
+      "createdAt": "10/4/2023",
+      "updatedAt": "10/4/2023",
+      "userId": 1,
+      "id": 4
+    },
+    {
+      "title": "Operational Manager",
+      "companyId": "4",
+      "description": "asdfasdfasf",
+      "jobType": "Full Time",
+      "createdAt": "10/4/2023",
+      "updatedAt": "10/4/2023",
+      "userId": 1,
+      "id": 5
+    }
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "name": "Hacktiv8",
+      "companyLogo": "https://coursereport-s3-production.global.ssl.fastly.net/uploads/school/logo/322/original/Logo_Hacktiv8.jpg",
+      "location": "Jakarta, Indonesia",
+      "email": "recruitment@hacktiv8.com",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugiat eos voluptatem sint cupiditate mollitia eius? Repellendus facilis officiis est quidem quos beatae totam odio dicta, unde sequi fuga, at iure inventore ea laborum quas? Labore minima exercitationem sapiente, illum ducimus in quam rem ad aut dolorum quod magnam beatae."
+    },
+    {
+      "id": 2,
+      "name": "Tokopedia",
+      "companyLogo": "https://seeklogo.com/images/T/tokopedia-logo-40654CCDD6-seeklogo.com.png",
+      "location": "Jakarta, Indonesia",
+      "email": "recruitment@tokopedia.com",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugiat eos voluptatem sint cupiditate mollitia eius? Repellendus facilis officiis est quidem quos beatae totam odio dicta, unde sequi fuga, at iure inventore ea laborum quas? Labore minima exercitationem sapiente, illum ducimus in quam rem ad aut dolorum quod magnam beatae."
+    },
+    {
+      "id": 3,
+      "name": "Bank Central Asia",
+      "companyLogo": "https://www.bca.co.id/-/media/Feature/Card/List-Card/Tentang-BCA/Brand-Assets/Logo-BCA/Logo-BCA_Biru.png",
+      "location": "Surabaya",
+      "email": "recruitment@bca.com",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugiat eos voluptatem sint cupiditate mollitia eius? Repellendus facilis officiis est quidem quos beatae totam odio dicta, unde sequi fuga, at iure inventore ea laborum quas? Labore minima exercitationem sapiente, illum ducimus in quam rem ad aut dolorum quod magnam beatae."
+    },
+    {
+      "name": "PT. Pupuk Kujang",
+      "companyLogo": "https://www.kikc.co.id/~img/1-bf791-2919_132-twebp80.webp",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet sit quisquam dolor adipisci! Magnam enim accusamus dolore quasi, illum distinctio.",
+      "location": "Cikampek, Jawa Barat",
+      "email": "recruitment@pukjang.co.id",
+      "id": 4
+    },
+    {
+      "name": "CV Mega Steel (edited)",
+      "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo-uqOwRbJRwxapPsFRRch0fSXQ7jjNvizjsIT3OgVwUHIUydk3sErolqgdflJiAdwQ58&usqp=CAU",
+      "description": "this is a description",
+      "location": "Purwakarta, Jawa Barat",
+      "email": "megasteel@mail.com",
+      "id": 5
+    }
+  ],
+  "skills": [
+    {
+      "id": 1,
+      "jobId": 1,
+      "name": "Programming",
+      "level": "Advanced"
+    },
+    {
+      "id": 2,
+      "jobId": 2,
+      "name": "Programming",
+      "level": "Intermediate"
+    }
+  ]
+}
